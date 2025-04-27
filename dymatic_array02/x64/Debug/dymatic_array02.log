@@ -1,0 +1,8 @@
+﻿  dymatic_array02.cpp
+D:\C_code\arraynew\dymatic_array02\matrix.h(240,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“dymatic_array02.cpp”)
+  
+D:\C_code\arraynew\dymatic_array02\matrix.h(241,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“dymatic_array02.cpp”)
+  
+  dymatic_array02.vcxproj -> D:\C_code\arraynew\dymatic_array02\x64\Debug\dymatic_array02.exe
